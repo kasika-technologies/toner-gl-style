@@ -501,7 +501,7 @@
         "visibility": "visible",
         "text-field": "{name:latin}",
         "text-font": [
-          "Metropolis Extra Bold Italic"
+          "Noto Sans Bold Italic"
         ],
         "text-max-width": 4,
         "text-size": 13,
